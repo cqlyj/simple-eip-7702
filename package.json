@@ -2,5 +2,8 @@
   "dependencies": {
     "@types/node": "^22.14.1",
     "viem": "^2.28.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
   }
 }
